@@ -30,4 +30,4 @@ Install Node.js dependencies: npm install
 
 Start the development server: npm start
 
-Your app should now be running, with the frontend on a different port (e.g., http://localhost:3000) and the backend API on http://localhost:8000.
+ App should now be running, with the frontend on a different port (e.g., http://localhost:3000) and the backend API on http://localhost:8000.
