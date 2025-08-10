@@ -1,0 +1,13 @@
+# Python
+venv/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Migrations
+migrations/
+api/migrations/
+
+# Deep Learning models
+models/
